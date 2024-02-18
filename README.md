@@ -1,4 +1,4 @@
-# Machine Learning: Modelos de Classificacao
+# Machine Learning: Modelos de Classificação
  ## Passo a passo para realizar um modelo de classificação com Scikit Learn
 
 - Saiba o que são tarefas de Classificação
